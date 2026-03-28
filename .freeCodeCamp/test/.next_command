@@ -1,2 +1,6 @@
 ./student_info.sh
 ./student_info.sh
+git pull official
+git pull main
+git pull official main
+git add .
