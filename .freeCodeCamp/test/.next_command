@@ -4,3 +4,9 @@ git pull official
 git pull main
 git pull official main
 git add .
+git commit -m "Advanced SQL queries"
+git push -u origin main
+git branch -M main
+git pull origin main --allow-unrelated-histories
+git push -u origin main
+git add .
